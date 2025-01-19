@@ -121,6 +121,6 @@ Note : Pour jouer une partie de Go en local, il vous faudra deux fenêtres avec 
 
 * **Victor Duboz** _alias_ [@VictorinhoOo](https://github.com/victorinhoOo)
 * **Clément Boutet** _alias_ [@clementbtt](https://github.com/ClementBoutet)
-* **Mattis Galopin** _alias_ [@mattis_glp](https://github.com/MattisGaloppin)
+* **Mattis Galoppin** _alias_ [@mattis_glp](https://github.com/MattisGaloppin)
 * **Adam Stitou** _alias_ [@Dadam](https://github.com/AdamStitou)
 * **Louis Deméocq** _alias_ [@KeTeR](https://github.com/0KeTeR0)
